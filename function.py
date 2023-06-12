@@ -3,4 +3,4 @@ def calculation(a,b):
     subtratio = a-b
     return addition,subtratio
     res = calculation(30,50)
-print (res)
+print(res)
