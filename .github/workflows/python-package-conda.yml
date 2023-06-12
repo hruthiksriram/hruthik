@@ -28,4 +28,4 @@ jobs:
     - name: Test of python programs
       run: |
         python first_oops.py
-        python test.py
+        python function.py
